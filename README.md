@@ -1,5 +1,5 @@
 # GlycemicRiskPred
-FourthBrain Capstone Project to predict glycemic risk from diabetes data
+In this Capstone Project, we explore to predict glycemic risk from diabetes data
 
 CGM data and user demographics/etc. will be used to predict the Glycemic Risk. This project mainly focuses on Time in Range and the risk correlation.
 
