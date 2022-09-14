@@ -1,5 +1,7 @@
 # GlycemicRiskPred
+
 In this repo we predict glycemic risk from diabetes data as part of a FourthBrain course Capstone Project. Continuous glucose monitor (CGM) and user demographic data are used for the prediction, and were extracted from the Glooko database. We are not offering a license for use of this work. This work is covered by an NDA and distribution of it is subject to written approval from an authorized Glooko representative.
+
 
 # Project motivation and value
 The project goal was to develop a machine learning model to predict high glycemic risk patients. Healthcare providers (e.g., doctors) are seeking ways to improve quality and cost-efficiency of diabetes care. Accurate prediction of high-risk patients allows for attention and intervention that may prevent future hospital visits and associated complications. This is a problem worth solving because high glycemic risk is associated with worsening health outcomes and increased healthcare costs. Intevention with high-risk patients could reduce patient harm from disease. Additionally, intervention could also reduce healthcare costs, allowing positive business value to be derived from the model.
