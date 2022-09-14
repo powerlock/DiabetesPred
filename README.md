@@ -6,9 +6,9 @@ CGM data and user demographics/etc. will be used to predict the Glycemic Risk. T
 We are not offering a license for use of this work. This work is covered by an NDA and distribution of it is subject to written approval from an authorized Glooko representative.
 # Motivation of the project, technical and business values.
 # Explanation of the data. 
-- shap image: `../exported/SHAP_SUMMARY_PLOT.png`
-- tree plot: `../exported/Tree_plot.png`
-- feature importance `../exported/Feature_importance.png`
+- shap image: `/exported/SHAP_SUMMARY_PLOT.png`
+- tree plot: `/exported/Tree_plot.png`
+- feature importance `/exported/Feature_importance.png`
 # Explanation of the model
 
 # Explanation of the pipeline
