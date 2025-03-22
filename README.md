@@ -1,4 +1,4 @@
-# GlycemicRiskPred
+
 
 In this repo we predict glycemic risk from diabetes data as part of a FourthBrain course Capstone Project. Continuous glucose monitor (CGM) and user demographic data are used for the prediction, and were extracted from the Glooko database. We are not offering a license for use of this work. This work is covered by an NDA and distribution of it is subject to written approval from an authorized Glooko representative.
 
