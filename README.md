@@ -29,15 +29,15 @@ Several models were developed to predict an average GRI above 40 for a future 2-
 The SHapeley Additive Parameters (SHAP) algorithm was used to assist in explaining the importance of different features when the model makes predictions. Several outputs from the SHAP algorithm are shown below. The most important feature for prediction is the average GRI over the two week period prior to the prediction date.
 
 - SHAP summary plot
-<p align = "center" draggable=”false” ><img src="/exported/SHAP_SUMMARY_PLOT.png" title="SHAP Summary"
+![SHAP SUMMARY PLOT]<p align = "center" draggable=”false” ><img src="/exported/SHAP_SUMMARY_PLOT.png" title="SHAP Summary"
      width="500px" height="auto"/>
 </p>
 - Feature importance plot
-<p align = "center" draggable=”false” ><img src="/exported/Feature_importance.png" title="Feature importance"
+![FEATURE IMPORTANCE]<p align = "center" draggable=”false” ><img src="/exported/Feature_importance.png" title="Feature importance"
      width="500px" height="auto"/>
 </p>
 - Example decision tree plot
-<p align = "center" draggable=”false” ><img src="/exported/Tree_plot.png" title="Example decision tree"
+![TREE PLOT]<p align = "center" draggable=”false” ><img src="/exported/Tree_plot.png" title="Example decision tree"
      width="800px" height="auto"/>
 </p>
 
