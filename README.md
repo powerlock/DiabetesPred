@@ -31,23 +31,16 @@ The SHapeley Additive Parameters (SHAP) algorithm was used to assist in explaini
 - SHAP summary plot
 
 ![SHAP SUMMARY PLOT](https://github.com/powerlock/DiabetesPred/blob/main/exported/SHAP_SUMMARY_PLOT.png)
-<p align = "center" draggable=”false” ><img src="/exported/SHAP_SUMMARY_PLOT.png" title="SHAP Summary"
-     width="500px" height="auto"/>
-</p>
+
 - Feature importance plot
 
 ![FEATURE IMPORTANCE](https://github.com/powerlock/DiabetesPred/blob/main/exported/Feature_importance.png)
 
-<p align = "center" draggable=”false” ><img src="/exported/Feature_importance.png" title="Feature importance"
-     width="500px" height="auto"/>
-</p>
+
 - Example decision tree plot
 
 ![TREE PLOT](https://github.com/powerlock/DiabetesPred/blob/main/exported/Tree_plot.png)
 
-<p align = "center" draggable=”false” ><img src="/exported/Tree_plot.png" title="Example decision tree"
-     width="800px" height="auto"/>
-</p>
 
 # Pipeline description
 ## Flow of the pipeline
