@@ -30,7 +30,7 @@ The SHapeley Additive Parameters (SHAP) algorithm was used to assist in explaini
 
 - SHAP summary plot
 
-![SHAP SUMMARY PLOT](https://github.com/powerlock/DiabetesPred/blob/main/exported/shap_summary.png)
+![SHAP SUMMARY PLOT](/exported/shap_summary.png)
 
 - Feature importance plot
 
