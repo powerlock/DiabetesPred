@@ -30,16 +30,16 @@ The SHapeley Additive Parameters (SHAP) algorithm was used to assist in explaini
 
 - SHAP summary plot
 
-![SHAP SUMMARY PLOT](https://github.com/powerlock/DiabetesPred/blob/main/exported/SHAP_SUMMARY_PLOT.png)
+![SHAP SUMMARY PLOT](https://github.com/powerlock/DiabetesPred/blob/main/exported/shap_summary.png)
 
 - Feature importance plot
 
-![FEATURE IMPORTANCE](https://github.com/powerlock/DiabetesPred/blob/main/exported/Feature_importance.png)
+![FEATURE IMPORTANCE](https://github.com/powerlock/DiabetesPred/blob/main/exported/feature_importance.png)
 
 
 - Example decision tree plot
 
-![TREE PLOT](https://github.com/powerlock/DiabetesPred/blob/main/exported/Tree_plot.png)
+![TREE PLOT](https://github.com/powerlock/DiabetesPred/blob/main/exported/tree_plot.png)
 
 
 # Pipeline description
